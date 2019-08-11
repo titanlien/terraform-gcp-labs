@@ -39,7 +39,7 @@ variable "swarm_managers_instance_type" {
 
 variable "swarm_workers" {
   description = "Number of Swarm workers"
-  default     = 3
+  default     = 2
 }
 
 variable "swarm_workers_instance_type" {

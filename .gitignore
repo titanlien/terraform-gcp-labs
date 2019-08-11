@@ -5,3 +5,4 @@ variables.tfvars
 .terraform
 *.backup
 *.retry
+gcp-credential.json

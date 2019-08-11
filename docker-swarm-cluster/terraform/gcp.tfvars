@@ -1,0 +1,6 @@
+credentials = "gcp-credential.json"
+project = "terraform-249509"
+region = "europe-west3"
+zone = "europe-west3-b"
+ssh_user = "root"
+ssh_pub_key_file = "/Users/titan/.ssh/id_rsa.pub"
